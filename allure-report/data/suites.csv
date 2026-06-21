@@ -1,0 +1,14 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"
+Automated Test Case: Verify that a logged-in user can successfully log out of the application.
+","2822","test_user_logout","tests","2026-06-22","passed","2026-06-22","","test_user_logout","",""
+"
+Automated Test Case: Verify that login succeeds for valid user credentials.
+","5589","test_valid_user_login","tests","2026-06-22","passed","2026-06-22","","test_login","",""
+"
+Automated Test Case: Verify that login fails for invalid user credentials.
+","2274","test_invalid_user_login","tests","2026-06-22","passed","2026-06-22","","test_login","",""
+"","925","test_product_search","tests","2026-06-22","passed","2026-06-22","","test_product_search","",""
+"
+Automated Test Case: Verify that a new user can successfully register an account.
+","2520","test_user_registration","tests","2026-06-22","passed","2026-06-22","","test_user_registration","",""

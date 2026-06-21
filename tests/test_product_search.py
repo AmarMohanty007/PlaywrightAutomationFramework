@@ -24,7 +24,6 @@ from pages.search_results_page import SearchResultsPage
 from config import Config
 
 @pytest.mark.sanity
-@pytest.mark.regression
 def test_product_search(page):
 
     product_name=Config.product_name
