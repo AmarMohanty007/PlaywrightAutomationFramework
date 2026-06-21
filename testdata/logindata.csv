@@ -1,0 +1,3 @@
+testName,email,password,expected
+Valid login,test_playwright@automation.com,test@123,success
+Invalid login,abcxyz@xyz.com,abc1234,failure
